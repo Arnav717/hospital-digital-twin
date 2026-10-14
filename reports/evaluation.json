@@ -1,0 +1,192 @@
+{
+ "forecast": [
+  {
+   "target": "ed_arrivals",
+   "model": "LightGBM",
+   "MAE": 18.086992650122816,
+   "RMSE": 21.985112730088026,
+   "MAPE": 8.76091637220822,
+   "Skill vs naive %": 22.79942161532944,
+   "80% interval coverage": 78.57142857142857
+  },
+  {
+   "target": "ed_census",
+   "model": "LightGBM",
+   "MAE": 2.3775732041130038,
+   "RMSE": 2.919778083504849,
+   "MAPE": 10.58888348597492,
+   "Skill vs naive %": 28.172577181984426,
+   "80% interval coverage": 81.42857142857143
+  },
+  {
+   "target": "icu_census",
+   "model": "Ensemble",
+   "MAE": 2.486226148090249,
+   "RMSE": 2.92859091142614,
+   "MAPE": 13.195056447346605,
+   "Skill vs naive %": 17.794530037559177,
+   "80% interval coverage": 78.57142857142857
+  },
+  {
+   "target": "med_census",
+   "model": "Ensemble",
+   "MAE": 10.039974880023134,
+   "RMSE": 12.480373300740258,
+   "MAPE": 6.51785299927452,
+   "Skill vs naive %": 19.423122350170242,
+   "80% interval coverage": 82.14285714285714
+  },
+  {
+   "target": "surg_census",
+   "model": "LightGBM",
+   "MAE": 8.340314768062017,
+   "RMSE": 10.771800634023206,
+   "MAPE": 9.876832134650277,
+   "Skill vs naive %": 23.735317401855017,
+   "80% interval coverage": 81.42857142857143
+  }
+ ],
+ "validation": [
+  {
+   "series": "ED arrivals / h",
+   "observed_mean": 8.924107142857142,
+   "twin_mean": 8.947098214285715,
+   "MAPE_%": 6.089935291578387,
+   "correlation": 0.724943492953367
+  },
+  {
+   "series": "ED census",
+   "observed_mean": 22.9233630952381,
+   "twin_mean": 23.228125000000002,
+   "MAPE_%": 8.22329471476331,
+   "correlation": 0.6472782653798569
+  },
+  {
+   "series": "ICU census",
+   "observed_mean": 19.536458333333336,
+   "twin_mean": 20.2734375,
+   "MAPE_%": 14.124812106250308,
+   "correlation": 0.21070278752912228
+  },
+  {
+   "series": "Medical ward census",
+   "observed_mean": 153.31101190476193,
+   "twin_mean": 155.9595238095238,
+   "MAPE_%": 5.013498443384334,
+   "correlation": 0.393379790052955
+  },
+  {
+   "series": "Surgical ward census",
+   "observed_mean": 89.08407738095237,
+   "twin_mean": 94.73563988095238,
+   "MAPE_%": 10.165654574277957,
+   "correlation": 0.8488439247763869
+  }
+ ],
+ "roster": [
+  {
+   "roster": "Fixed template",
+   "required_shifts": 1308,
+   "scheduled_shifts": 1247,
+   "agency_shifts": 0,
+   "short_shifts": 130,
+   "over_shifts": 69,
+   "redeployments": 0,
+   "float_shifts": 87,
+   "cost": 451425.0,
+   "status": "TEMPLATE"
+  },
+  {
+   "roster": "CP-SAT optimised",
+   "required_shifts": 1308,
+   "scheduled_shifts": 1299,
+   "agency_shifts": 9,
+   "short_shifts": 0,
+   "over_shifts": 0,
+   "redeployments": 0,
+   "float_shifts": 90,
+   "cost": 145470.0,
+   "status": "OPTIMAL"
+  }
+ ],
+ "electives": [
+  {
+   "plan": "FIFO by listing date",
+   "scheduled": 225,
+   "postponed": 15,
+   "p1_scheduled_pct": 77.41935483870968,
+   "late_cases": 81,
+   "theatre_util_pct": 99.61111111111113,
+   "bed_overflow_days": 11,
+   "status": "FIFO"
+  },
+  {
+   "plan": "CP-SAT bed-aware",
+   "scheduled": 177,
+   "postponed": 63,
+   "p1_scheduled_pct": 93.54838709677419,
+   "late_cases": 16,
+   "theatre_util_pct": 65.24074074074075,
+   "bed_overflow_days": 0,
+   "status": "FEASIBLE"
+  }
+ ],
+ "ablation": [
+  {
+   "scenario": "Baseline",
+   "plan": "Integrated response plan (3 coordinated actions)",
+   "Door-to-doctor (min) (reactive)": 29.676734099329213,
+   "Door-to-doctor (min) (AI plan)": 28.0607627841506,
+   "ED boarding mean (h) (reactive)": 0.8991332086489391,
+   "ED boarding mean (h) (AI plan)": 0.6278580343436652,
+   "Left without being seen (reactive)": 91.375,
+   "Left without being seen (AI plan)": 78.375,
+   "Hours ICU full (reactive)": 34.5,
+   "Hours ICU full (AI plan)": 1.7916666666666667,
+   "Electives cancelled (reactive)": 29.833333333333332,
+   "Electives cancelled (AI plan)": 24.791666666666668
+  },
+  {
+   "scenario": "Monsoon Fever Surge",
+   "plan": "Integrated response plan (5 coordinated actions)",
+   "Door-to-doctor (min) (reactive)": 73.10849113917696,
+   "Door-to-doctor (min) (AI plan)": 36.9314681255386,
+   "ED boarding mean (h) (reactive)": 3.1889186286428775,
+   "ED boarding mean (h) (AI plan)": 1.4604612480381232,
+   "Left without being seen (reactive)": 605.625,
+   "Left without being seen (AI plan)": 245.41666666666666,
+   "Hours ICU full (reactive)": 92.41666666666667,
+   "Hours ICU full (AI plan)": 26.375,
+   "Electives cancelled (reactive)": 73.29166666666667,
+   "Electives cancelled (AI plan)": 41.666666666666664
+  },
+  {
+   "scenario": "Mass Casualty Incident",
+   "plan": "Integrated response plan (6 coordinated actions)",
+   "Door-to-doctor (min) (reactive)": 37.16861779357299,
+   "Door-to-doctor (min) (AI plan)": 19.268282073618114,
+   "ED boarding mean (h) (reactive)": 1.4963835452246872,
+   "ED boarding mean (h) (AI plan)": 0.5315380656574389,
+   "Left without being seen (reactive)": 152.95833333333334,
+   "Left without being seen (AI plan)": 46.375,
+   "Hours ICU full (reactive)": 70.25,
+   "Hours ICU full (AI plan)": 7.916666666666667,
+   "Electives cancelled (reactive)": 37.25,
+   "Electives cancelled (AI plan)": 20.583333333333332
+  },
+  {
+   "scenario": "ICU Bed Closure",
+   "plan": "Integrated response plan (5 coordinated actions)",
+   "Door-to-doctor (min) (reactive)": 34.47173541318676,
+   "Door-to-doctor (min) (AI plan)": 14.484408041670257,
+   "ED boarding mean (h) (reactive)": 2.3161773920521522,
+   "ED boarding mean (h) (AI plan)": 0.428186042421437,
+   "Left without being seen (reactive)": 172.25,
+   "Left without being seen (AI plan)": 24.041666666666668,
+   "Hours ICU full (reactive)": 125.0,
+   "Hours ICU full (AI plan)": 14.541666666666666,
+   "Electives cancelled (reactive)": 32.166666666666664,
+   "Electives cancelled (AI plan)": 20.916666666666668
+  }
+ ]
+}

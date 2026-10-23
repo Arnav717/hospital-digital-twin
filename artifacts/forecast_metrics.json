@@ -1,0 +1,206 @@
+{
+ "champions": {
+  "ed_census": "LightGBM",
+  "icu_census": "Ensemble",
+  "surg_census": "LightGBM",
+  "med_census": "Ensemble",
+  "ed_arrivals": "LightGBM"
+ },
+ "coverage80": {
+  "ed_census": 81.42857142857143,
+  "icu_census": 78.57142857142857,
+  "surg_census": 81.42857142857143,
+  "med_census": 82.14285714285714,
+  "ed_arrivals": 78.57142857142857
+ },
+ "metrics": [
+  {
+   "target": "ed_arrivals",
+   "model": "Ensemble",
+   "MAE": 18.258398061417587,
+   "RMSE": 24.575845983024266,
+   "MAPE": 8.966122228299875,
+   "Skill vs naive %": 22.067813152485904
+  },
+  {
+   "target": "ed_arrivals",
+   "model": "LightGBM",
+   "MAE": 18.086992650122816,
+   "RMSE": 21.985112730088026,
+   "MAPE": 8.76091637220822,
+   "Skill vs naive %": 22.79942161532944
+  },
+  {
+   "target": "ed_arrivals",
+   "model": "SARIMA",
+   "MAE": 21.981173866967143,
+   "RMSE": 33.20522540824808,
+   "MAPE": 10.825669035500754,
+   "Skill vs naive %": 6.177916421481699
+  },
+  {
+   "target": "ed_arrivals",
+   "model": "Seasonal naive",
+   "MAE": 23.428571428571427,
+   "RMSE": 29.238428724637618,
+   "MAPE": 11.229879894753337,
+   "Skill vs naive %": 0.0
+  },
+  {
+   "target": "ed_census",
+   "model": "Ensemble",
+   "MAE": 2.381948831328141,
+   "RMSE": 3.0090829079212105,
+   "MAPE": 10.823148202669488,
+   "Skill vs naive %": 28.040387760631603
+  },
+  {
+   "target": "ed_census",
+   "model": "LightGBM",
+   "MAE": 2.3775732041130038,
+   "RMSE": 2.919778083504849,
+   "MAPE": 10.58888348597492,
+   "Skill vs naive %": 28.172577181984426
+  },
+  {
+   "target": "ed_census",
+   "model": "SARIMA",
+   "MAE": 2.5255812247099914,
+   "RMSE": 3.399251887926506,
+   "MAPE": 11.670697446570529,
+   "Skill vs naive %": 23.701196592109596
+  },
+  {
+   "target": "ed_census",
+   "model": "Seasonal naive",
+   "MAE": 3.3101190476190476,
+   "RMSE": 4.10967572003066,
+   "MAPE": 14.882848223370738,
+   "Skill vs naive %": 0.0
+  },
+  {
+   "target": "icu_census",
+   "model": "Ensemble",
+   "MAE": 2.486226148090249,
+   "RMSE": 2.92859091142614,
+   "MAPE": 13.195056447346605,
+   "Skill vs naive %": 17.794530037559177
+  },
+  {
+   "target": "icu_census",
+   "model": "LightGBM",
+   "MAE": 2.5331257093996813,
+   "RMSE": 3.0054826074217247,
+   "MAPE": 13.200895912927702,
+   "Skill vs naive %": 16.243826180053844
+  },
+  {
+   "target": "icu_census",
+   "model": "SARIMA",
+   "MAE": 2.5551463976881825,
+   "RMSE": 3.0404857348227403,
+   "MAPE": 13.786542170360514,
+   "Skill vs naive %": 15.515726272069541
+  },
+  {
+   "target": "icu_census",
+   "model": "Seasonal naive",
+   "MAE": 3.024404761904762,
+   "RMSE": 3.801667867058953,
+   "MAPE": 16.11088626170443,
+   "Skill vs naive %": 0.0
+  },
+  {
+   "target": "med_census",
+   "model": "Ensemble",
+   "MAE": 10.039974880023134,
+   "RMSE": 12.480373300740258,
+   "MAPE": 6.51785299927452,
+   "Skill vs naive %": 19.423122350170242
+  },
+  {
+   "target": "med_census",
+   "model": "LightGBM",
+   "MAE": 10.313543632468484,
+   "RMSE": 13.037985490827543,
+   "MAPE": 6.73549376687075,
+   "Skill vs naive %": 17.227567465021487
+  },
+  {
+   "target": "med_census",
+   "model": "SARIMA",
+   "MAE": 10.263761988671119,
+   "RMSE": 13.993635567944189,
+   "MAPE": 6.615896904181331,
+   "Skill vs naive %": 17.627095299443564
+  },
+  {
+   "target": "med_census",
+   "model": "Seasonal naive",
+   "MAE": 12.460119047619049,
+   "RMSE": 15.614255829819353,
+   "MAPE": 8.173018524470852,
+   "Skill vs naive %": 0.0
+  },
+  {
+   "target": "surg_census",
+   "model": "Ensemble",
+   "MAE": 9.108505152180665,
+   "RMSE": 11.457878536118855,
+   "MAPE": 10.960315775931694,
+   "Skill vs naive %": 16.710906759213408
+  },
+  {
+   "target": "surg_census",
+   "model": "LightGBM",
+   "MAE": 8.340314768062017,
+   "RMSE": 10.771800634023206,
+   "MAPE": 9.876832134650277,
+   "Skill vs naive %": 23.735317401855017
+  },
+  {
+   "target": "surg_census",
+   "model": "SARIMA",
+   "MAE": 11.401163406703217,
+   "RMSE": 13.875148384815528,
+   "MAPE": 13.675378284430625,
+   "Skill vs naive %": -4.253392424881786
+  },
+  {
+   "target": "surg_census",
+   "model": "Seasonal naive",
+   "MAE": 10.936011904761905,
+   "RMSE": 13.785700856869026,
+   "MAPE": 12.610105538257342,
+   "Skill vs naive %": 0.0
+  }
+ ],
+ "feature_labels": {
+  "dow": "Day of week",
+  "month": "Month",
+  "doy_sin": "Season (sin)",
+  "doy_cos": "Season (cos)",
+  "is_holiday": "Public holiday",
+  "festival": "Festival (Diwali)",
+  "is_weekend": "Weekend",
+  "roll7": "7-day mean",
+  "roll28": "28-day mean",
+  "std7": "7-day volatility",
+  "trend7": "Weekly trend",
+  "lag1": "Value 1d ago",
+  "lag2": "Value 2d ago",
+  "lag3": "Value 3d ago",
+  "lag7": "Value 7d ago",
+  "lag14": "Value 14d ago",
+  "lag21": "Value 21d ago",
+  "lag28": "Value 28d ago",
+  "lag364": "Value 364d ago"
+ },
+ "targets": {
+  "ed_arrivals": "ED arrivals / day",
+  "ed_census": "ED occupied beds (daily mean)",
+  "icu_census": "ICU occupied beds (daily mean)",
+  "med_census": "Medical ward occupied beds (daily mean)",
+  "surg_census": "Surgical ward occupied beds (daily mean)"
+ }
+}

@@ -1,0 +1,2648 @@
+{
+ "time": "2026-10-14T08:00:00",
+ "inpatients": [
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 1476.84,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 867.05,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 517.45,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 507.0,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 489.62,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 460.47,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 448.88,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 139.68,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 340.96,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 345.48,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 224.83,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 317.14,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 316.52,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 295.89,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 294.56,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 281.26,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 277.05,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 120.61,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 272.71,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 201.52,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 255.66,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 258.36,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 253.27,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 248.14,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 231.4,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 229.5,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 19.68,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 209.38,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 210.62,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 207.03,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 204.46,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 200.48,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 187.9,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 185.43,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 144.47,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 185.56,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 70.16,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 60.32,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 181.97,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 132.95,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 179.77,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 173.63,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 176.44,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 169.06,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 150.24,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 164.21,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 163.95,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 106.91,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 105.47,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 162.75,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 161.02,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 157.44,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 159.45,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 116.24,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 158.52,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 155.61,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 153.27,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 152.38,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 150.75,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 147.74,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 149.62,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 143.09,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 140.34,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 139.37,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 137.81,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 142.38,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 126.84,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 137.99,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 135.98,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 135.22,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 135.66,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 130.54,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 131.78,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "SURG",
+   "elapsed": 124.38,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 128.24,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 97.52,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 117.96,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 115.84,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 112.88,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 64.55,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 107.47,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 109.13,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 108.4,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 104.84,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 107.21,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 106.3,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 101.61,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 102.53,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 103.1,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 100.1,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 98.62,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 99.81,
+   "elective": false,
+   "surgical": true,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 95.31,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 92.5,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 88.8,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 88.23,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 90.26,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 90.65,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 89.36,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 85.79,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 82.0,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 87.13,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 88.32,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 84.81,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 87.59,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 84.61,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 84.69,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 85.97,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 83.8,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 83.64,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 79.65,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 83.57,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 79.61,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 83.96,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 56.04,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 20.38,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 81.45,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 80.83,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 81.62,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 79.8,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 75.6,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 78.07,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 73.53,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 74.84,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 71.23,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 68.44,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 69.75,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 69.95,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 66.08,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 65.55,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 66.87,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 65.8,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 65.79,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 65.3,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 64.07,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 63.17,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 62.16,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 64.08,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 56.09,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 63.09,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 61.55,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "STEPDOWN",
+   "elapsed": 40.36,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 61.92,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 60.55,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 60.71,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 56.06,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 59.6,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 60.98,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 56.99,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 60.21,
+   "elective": false,
+   "surgical": true,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 58.09,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 53.52,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 57.28,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 54.7,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 57.26,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 56.74,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 13.05,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 52.64,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 51.79,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 52.02,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 30.64,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 49.76,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 50.96,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 49.2,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 47.11,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 48.37,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 46.8,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 44.77,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 46.16,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 47.48,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 47.04,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 47.27,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 46.9,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 46.53,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 47.82,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 46.39,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 46.54,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 46.5,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 43.37,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 44.53,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 45.19,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 43.66,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 44.53,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 44.04,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 43.41,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 41.79,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 42.72,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 43.55,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 39.89,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 39.59,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 43.9,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 36.98,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 38.72,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 42.98,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 40.63,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 38.07,
+   "elective": false,
+   "surgical": true,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 41.71,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 41.97,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 41.24,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 39.75,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 36.58,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 33.76,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 38.45,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 40.18,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 40.56,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 39.51,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 40.23,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 34.77,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 35.9,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 37.94,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 35.88,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 37.92,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 38.98,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 37.15,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 34.86,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 34.88,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 36.58,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 36.86,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 32.39,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 35.12,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 31.76,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 28.38,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 31.63,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 34.26,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 31.93,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 33.79,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 35.02,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 30.86,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 32.3,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU_POSTOP",
+   "elapsed": 25.17,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 33.28,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 34.14,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 32.5,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 33.7,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 30.99,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 29.64,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 28.17,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 28.49,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 27.74,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 29.11,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 28.78,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "MED",
+   "elapsed": 23.49,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 25.87,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "MED",
+   "elapsed": 23.37,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 26.23,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 26.84,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 24.98,
+   "elective": false,
+   "surgical": true,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 21.5,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 20.81,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 21.76,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 17.83,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 22.68,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 23.41,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU_POSTOP",
+   "elapsed": 23.01,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 23.28,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 23.01,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 24.08,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 22.84,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 0.48,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 21.85,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 19.52,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 20.74,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 20.67,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 20.84,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "STEPDOWN",
+   "elapsed": 2.14,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 19.6,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG_ELECTIVE",
+   "elapsed": 19.7,
+   "elective": true,
+   "surgical": true,
+   "esi": 0
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 22.66,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 18.92,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 21.68,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 20.16,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 21.59,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 21.14,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 19.71,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 21.01,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 20.2,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 19.81,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 21.62,
+   "elective": false,
+   "surgical": true,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 19.77,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 18.2,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 18.73,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 18.62,
+   "elective": false,
+   "surgical": false,
+   "esi": 4
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 16.96,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 16.81,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 16.52,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 15.78,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 15.02,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 16.1,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 11.57,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 13.86,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 13.58,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 14.45,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 13.17,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 12.35,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 12.6,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 11.1,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 11.28,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 10.18,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "MED",
+   "elapsed": 4.05,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 9.27,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 10.52,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 8.4,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 9.46,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 9.4,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 8.16,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 9.72,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 8.85,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 7.76,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 7.32,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "MED",
+   "kind": "MED",
+   "elapsed": 9.09,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 7.57,
+   "elective": false,
+   "surgical": false,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 7.52,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 6.9,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 1.94,
+   "elective": false,
+   "surgical": true,
+   "esi": 2
+  },
+  {
+   "unit": "SURG",
+   "kind": "MED",
+   "elapsed": 1.84,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "MED",
+   "elapsed": 0.23,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "MED",
+   "elapsed": 2.21,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "ICU",
+   "kind": "ICU",
+   "elapsed": 2.4,
+   "elective": false,
+   "surgical": false,
+   "esi": 3
+  },
+  {
+   "unit": "SURG",
+   "kind": "MED",
+   "elapsed": 0.59,
+   "elective": false,
+   "surgical": false,
+   "esi": 1
+  },
+  {
+   "unit": "SURG",
+   "kind": "SURG",
+   "elapsed": 2.83,
+   "elective": false,
+   "surgical": true,
+   "esi": 3
+  }
+ ],
+ "ed": [
+  {
+   "esi": 2,
+   "stage": "boarding",
+   "dest": "MED",
+   "elapsed": 4.14
+  },
+  {
+   "esi": 3,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 2.78
+  },
+  {
+   "esi": 3,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 2.0
+  },
+  {
+   "esi": 3,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 1.57
+  },
+  {
+   "esi": 3,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 1.55
+  },
+  {
+   "esi": 3,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 1.19
+  },
+  {
+   "esi": 4,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 1.08
+  },
+  {
+   "esi": 4,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 0.99
+  },
+  {
+   "esi": 4,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 0.93
+  },
+  {
+   "esi": 2,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 0.87
+  },
+  {
+   "esi": 4,
+   "stage": "treatment",
+   "dest": null,
+   "elapsed": 0.28
+  },
+  {
+   "esi": 3,
+   "stage": "waiting",
+   "dest": null,
+   "elapsed": 0.08
+  },
+  {
+   "esi": 4,
+   "stage": "waiting",
+   "dest": null,
+   "elapsed": 0.05
+  }
+ ],
+ "lounge": 0,
+ "ot_busy": 7,
+ "doctors": 7
+}

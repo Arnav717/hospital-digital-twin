@@ -6,6 +6,7 @@ from pathlib import Path
 import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))  # hospital_twin package for cloud deploys
 
 st.set_page_config(page_title="Hospital Digital Twin", page_icon="🏥", layout="wide",
                    initial_sidebar_state="expanded")

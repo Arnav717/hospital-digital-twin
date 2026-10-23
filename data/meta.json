@@ -1,0 +1,63 @@
+{
+ "start": "2024-10-14T00:00:00",
+ "end": "2026-10-14T08:00:00",
+ "seed": 42,
+ "mass_casualty_events": [
+  {
+   "time": "2026-02-01T02:11:28.003242912",
+   "patients": 31
+  },
+  {
+   "time": "2024-11-14T21:11:33.565954779",
+   "patients": 30
+  },
+  {
+   "time": "2024-10-28T14:07:01.842820718",
+   "patients": 22
+  },
+  {
+   "time": "2026-06-17T05:26:09.392254096",
+   "patients": 20
+  },
+  {
+   "time": "2025-12-15T15:15:37.698621344",
+   "patients": 20
+  },
+  {
+   "time": "2025-03-26T15:50:50.726253680",
+   "patients": 23
+  }
+ ],
+ "history_kpis": {
+  "arrivals": 159799,
+  "diverted": 0,
+  "lwbs": 4062,
+  "lwbs_rate": 2.5419433162910905,
+  "door_to_doc_mean_min": 21.118937349810356,
+  "door_to_doc_p90_min": 46.0307879603352,
+  "ed_los_mean_h": 2.8768071510882347,
+  "ed_los_p90_h": 4.958267957216869,
+  "boarding_mean_h": 0.3480711664582853,
+  "boarding_p90_h": 0.0,
+  "ed_waiting_peak": 49.0,
+  "outliers": 532,
+  "icu_exit_block_h": 517.0321075456993,
+  "electives_listed": 10884,
+  "electives_done": 9371,
+  "electives_cancelled": 1495,
+  "electives_postponed": 0,
+  "ICU_occ_mean": 84.1501682194617,
+  "ICU_occ_peak": 100.0,
+  "ICU_full_hours": 3384.0,
+  "admit_ICU": 3908,
+  "MED_occ_mean": 86.21349083111505,
+  "MED_occ_peak": 100.0,
+  "MED_full_hours": 625.0,
+  "admit_MED": 19939,
+  "SURG_occ_mean": 78.29673173617272,
+  "SURG_occ_peak": 100.0,
+  "SURG_full_hours": 582.0,
+  "admit_SURG": 6306,
+  "ed_occ_mean": 64.03862269545499
+ }
+}
